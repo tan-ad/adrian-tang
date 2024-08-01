@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adrian-tang/static/css/main.eb81e119.css",
+    "main.js": "/adrian-tang/static/js/main.5244b65c.js",
+    "static/js/453.18d4b48b.chunk.js": "/adrian-tang/static/js/453.18d4b48b.chunk.js",
+    "index.html": "/adrian-tang/index.html",
+    "main.eb81e119.css.map": "/adrian-tang/static/css/main.eb81e119.css.map",
+    "main.5244b65c.js.map": "/adrian-tang/static/js/main.5244b65c.js.map",
+    "453.18d4b48b.chunk.js.map": "/adrian-tang/static/js/453.18d4b48b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb81e119.css",
+    "static/js/main.5244b65c.js"
+  ]
+}
