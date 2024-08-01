@@ -1,0 +1,3 @@
+# Adrian Tang
+
+Repository for my personal website. I mainly wanted a place for me to display projects and any writing I decide to do in the future. This was also good practice for making a website in React from scratch. I care more about original implementation than original design, so I took inspiration from [Wassim Chegham](https://wassim.dev/about/) and [Evan You](https://evanyou.me/)'s websites. While this may not reflect my design abilities, I hope it does reflect my taste in design haha.
