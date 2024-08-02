@@ -4,10 +4,8 @@ import './Footer.css';
 const Footer = () => {
     return (
         <footer className="footer">
+            <i id="quote">Work expands so as to fill the time available for its completion.</i>
             <div className="footer-container">
-                {/* <p classname="footer-item">
-                    Email: adrian.s.tang@gmail.com
-                </p> */}
                 <li classname="footer-item">
                     GitHub:
                     &nbsp;

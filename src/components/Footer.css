@@ -4,7 +4,7 @@
     margin-top: auto;
     display: flex;
     align-items: center; /* Align items vertically in the center */
-    justify-content: flex-end; /* Align all items to the right */
+    justify-content: space-between; 
 }
 
 .footer-container {
@@ -14,8 +14,14 @@
     list-style: none;
     padding: 0;
     margin: 0;
+    
 }
 
 .footer-item {
     padding: 10px 0px;
+}
+
+#quote {
+    text-align: left;
+    margin: 0;
 }
