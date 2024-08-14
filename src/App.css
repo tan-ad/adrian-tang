@@ -12,8 +12,8 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  padding-left: 20em;
-  padding-right: 20em;
+  padding-left: 15em;
+  padding-right: 15em;
 }
 
 h1 {
